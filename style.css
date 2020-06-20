@@ -1,0 +1,32 @@
+h1 {
+   text-align: center;
+   color: green;
+}
+
+h2 {
+   text-align: center;
+   color: tomato;
+   padding: 30px;
+}
+
+
+.container {
+   
+   width: 400px;
+   height: auto;
+   margin: 0 auto;
+   text-align: center;
+  
+}
+
+.row {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+}
+
+.weather {
+   width: 50%;
+   outline: 2px solid green;
+   margin-right: 20px;
+}
